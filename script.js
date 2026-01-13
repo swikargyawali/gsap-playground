@@ -1,5 +1,5 @@
 gsap.to("#box1",{
-    x:1500,
+    x:1290,
     duration:1.5,
     delay:1,
     rotate:360,
@@ -13,19 +13,21 @@ gsap.to("#box1",{
 
 
 gsap.to("#box2",{
-    x:1500,
+    x:1290,
     rotate:360,
     duration:1.5,
     delay:2.5,
+    backgroundColor:"yellow",
     borderRadius:"50%",
     scale:0.5
 })
 
 gsap.to("#box3",{
-    x:1500,
+    x:1290,
     duration:1.5,
     delay:4,
     rotate:360,
+    backgroundColor:"purple",
     scale:0.5,
     borderRadius:"50%"
 })
