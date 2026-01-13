@@ -1,0 +1,6 @@
+So what is GSAP?
+GreenScok Animation Platform!
+animation library of GSAP.
+there's always a seperate stuffs that library!! ( like locomotive js do smooth scrolling)
+
+user's experince on peak if you use animations
