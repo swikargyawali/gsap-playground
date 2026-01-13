@@ -19,10 +19,17 @@ body{
     height: 300px;
     width: 300px;
     background-color: crimson;
+   
 }
 
-/* #box2{
+#box2{
     height: 300px;
     width: 300px;
     background-color: skyblue;
-}  */
+} 
+
+#box3{
+    height:300px;
+    width:300px;
+    background-color:royalblue;
+}
